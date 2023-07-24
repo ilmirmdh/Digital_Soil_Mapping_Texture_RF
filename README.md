@@ -13,3 +13,4 @@ k-Fold Cross-Validation: To ensure robust model evaluation and mitigate overfitt
 Random Forest Regression: Random forest is applied to model the relationship between the hyperspectral features and soil texture labels. Hyperparameter tuning is performed using the caret package to find the best combination of hyperparameters.
 
 Model Evaluation: Evaluation metrics, including Root Mean Squared Error (RMSE), R-squared, and Adjusted R-squared, are calculated to assess the performance of the final model.
+![RFE_CLAY](https://github.com/ilmirmdh/Digital_Soil_Mapping_Texture_RF/assets/82806657/f3afd5a8-4304-44e5-b524-c0914002f466)
